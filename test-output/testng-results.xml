@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="mystoreTestSuite" duration-ms="44198" started-at="2019-09-05T07:28:48Z" finished-at="2019-09-05T07:29:32Z">
+    <groups>
+    </groups>
+    <test name="mystoreTest" duration-ms="44198" started-at="2019-09-05T07:28:48Z" finished-at="2019-09-05T07:29:32Z">
+      <class name="com.qa.mystore.tests.SearchTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.mystore.tests.SearchTest@2f8f11]" name="setUp" is-config="true" duration-ms="25390" started-at="2019-09-05T09:28:48Z" finished-at="2019-09-05T09:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPageTitle()[pri:0, instance:com.qa.mystore.tests.SearchTest@2f8f11]" name="verifyPageTitle" duration-ms="29" started-at="2019-09-05T09:29:13Z" finished-at="2019-09-05T09:29:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.mystore.tests.SearchTest@2f8f11]" name="tearDown" is-config="true" duration-ms="782" started-at="2019-09-05T09:29:13Z" finished-at="2019-09-05T09:29:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.mystore.tests.SearchTest@2f8f11]" name="setUp" is-config="true" duration-ms="12227" started-at="2019-09-05T09:29:14Z" finished-at="2019-09-05T09:29:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:com.qa.mystore.tests.SearchTest@2f8f11]" name="searchTest" duration-ms="4252" started-at="2019-09-05T09:29:26Z" finished-at="2019-09-05T09:29:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.mystore.tests.SearchTest@2f8f11]" name="tearDown" is-config="true" duration-ms="1499" started-at="2019-09-05T09:29:30Z" finished-at="2019-09-05T09:29:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.mystore.tests.SearchTest -->
+    </test> <!-- mystoreTest -->
+  </suite> <!-- mystoreTestSuite -->
+</testng-results>

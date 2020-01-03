@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [mystoreTestSuite]">
+  <test name="mystoreTest(failed)">
+    <classes>
+      <class name="com.qa.mystore.tests.SearchTest">
+        <methods>
+          <include name="searchTest"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="verifyPageTitle"/>
+        </methods>
+      </class> <!-- com.qa.mystore.tests.SearchTest -->
+    </classes>
+  </test> <!-- mystoreTest(failed) -->
+</suite> <!-- Failed suite [mystoreTestSuite] -->
